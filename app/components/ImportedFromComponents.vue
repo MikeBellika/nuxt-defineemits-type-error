@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// No error when importing component explitely.
+// No error when importing component explicitly.
 import { MyEmitter } from "#components";
 const hello = ref(false);
 </script>
